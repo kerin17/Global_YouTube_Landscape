@@ -40,6 +40,5 @@ This project explores the global dynamics of YouTube's influence by analyzing su
 
 ## 📂 Repository Contents
 
-- `youtube_global_data.csv` — Cleaned source dataset  
-- `youtube_analysis.twb` — Tableau Workbook  
+- `Global YouTube Statistics Cleaned.csv` — Cleaned source dataset  
 
