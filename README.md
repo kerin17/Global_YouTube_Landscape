@@ -7,8 +7,8 @@
 
 ## 🛠 Tools Used
 
-- **Tableau 2024.1** — Data visualization and dashboarding  
-- **Python** — Data prep  
+- **Tableau 2024.1** - Data visualization and dashboarding  
+- **Python** - Data prep  
 
 ---
 
@@ -21,11 +21,11 @@ This project explores the global dynamics of YouTube's influence by analyzing su
 ## 📈 Key Insights
 
 - **🇺🇸 United States and 🇮🇳 India** lead with the highest number of top YouTubers and subscribers.
-- **Genre Trends:** People, Comedy, and Games genres exhibit high engagement per subscriber — suggesting a **strong fan base**.
+- **Genre Trends:** People, Comedy, and Games genres exhibit high engagement per subscriber, suggesting a **strong fan base**.
 - **Channel Origins:** Peak growth years include 2006, 2011, 2014, and especially 2020.
 - **Top Earnings:** Comedy and Education channels outperform Music and Entertainment in estimated yearly revenue due to **niche audience appeal**.
 - **Experience Pays Off:** The top 20 YouTubers average over **4 years** in the field; top 5 exceed a **decade**.
-- **Revenue ≠ Subscribers:** Success isn’t purely numbers-driven — **engagement and influence** are key.
+- **Revenue ≠ Subscribers:** Success isn’t purely numbers-driven - **engagement and influence** are key.
 - **Global Reach Potential:** Some creators (e.g., BLACKPINK, Alan Walker) achieve massive international success despite smaller home-country populations.
 
 ---
@@ -40,5 +40,5 @@ This project explores the global dynamics of YouTube's influence by analyzing su
 
 ## 📂 Repository Contents
 
-- `Global YouTube Statistics Cleaned.csv` — Cleaned source dataset  
+- `Global YouTube Statistics Cleaned.csv` - cleaned source dataset  
 
